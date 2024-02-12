@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/outputs/2024-02-08/10-47-08/mlruns/0/e1b57a3a4eeb44918ad91bc2c59b91fa/artifacts
+end_time: 1707414641278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1b57a3a4eeb44918ad91bc2c59b91fa
+run_name: angry-snake-403
+run_uuid: e1b57a3a4eeb44918ad91bc2c59b91fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707414481054
+status: 3
+tags: []
+user_id: hbark28

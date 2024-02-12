@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8f03f7f7ede74b00987bf190197a2676/artifacts
+end_time: 1707415800166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f03f7f7ede74b00987bf190197a2676
+run_name: fun-mule-687
+run_uuid: 8f03f7f7ede74b00987bf190197a2676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707415795459
+status: 3
+tags: []
+user_id: hbark28

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eca180322fee49829ffc18a9b8110f82/artifacts
+end_time: 1707425154955
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eca180322fee49829ffc18a9b8110f82
+run_name: languid-shoat-539
+run_uuid: eca180322fee49829ffc18a9b8110f82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707425018019
+status: 3
+tags: []
+user_id: hbark28

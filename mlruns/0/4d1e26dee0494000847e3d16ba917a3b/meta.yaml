@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4d1e26dee0494000847e3d16ba917a3b/artifacts
+end_time: 1707412279201
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d1e26dee0494000847e3d16ba917a3b
+run_name: righteous-worm-878
+run_uuid: 4d1e26dee0494000847e3d16ba917a3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707412201246
+status: 4
+tags: []
+user_id: hbark28

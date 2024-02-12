@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ac7b185319824ab58fb3516649f5863f/artifacts
+end_time: 1707424290033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac7b185319824ab58fb3516649f5863f
+run_name: carefree-toad-513
+run_uuid: ac7b185319824ab58fb3516649f5863f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707424195517
+status: 3
+tags: []
+user_id: hbark28

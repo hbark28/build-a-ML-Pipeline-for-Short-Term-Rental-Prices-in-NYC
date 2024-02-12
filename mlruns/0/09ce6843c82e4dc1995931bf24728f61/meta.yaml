@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/09ce6843c82e4dc1995931bf24728f61/artifacts
+end_time: 1707413324194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09ce6843c82e4dc1995931bf24728f61
+run_name: likeable-bee-290
+run_uuid: 09ce6843c82e4dc1995931bf24728f61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707413309573
+status: 3
+tags: []
+user_id: hbark28

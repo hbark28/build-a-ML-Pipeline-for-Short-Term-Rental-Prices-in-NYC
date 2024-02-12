@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/afa8d2b7e4844d8286787acdfbf27228/artifacts
+end_time: 1707423236733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afa8d2b7e4844d8286787acdfbf27228
+run_name: dapper-bat-950
+run_uuid: afa8d2b7e4844d8286787acdfbf27228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707423186343
+status: 4
+tags: []
+user_id: hbark28

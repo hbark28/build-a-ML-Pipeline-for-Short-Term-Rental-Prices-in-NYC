@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3dc73d41065843a89757bb0265dc7e30/artifacts
+end_time: 1707425154745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3dc73d41065843a89757bb0265dc7e30
+run_name: welcoming-quail-96
+run_uuid: 3dc73d41065843a89757bb0265dc7e30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707425024128
+status: 3
+tags: []
+user_id: hbark28

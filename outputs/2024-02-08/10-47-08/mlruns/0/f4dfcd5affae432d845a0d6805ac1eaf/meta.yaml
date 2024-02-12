@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/outputs/2024-02-08/10-47-08/mlruns/0/f4dfcd5affae432d845a0d6805ac1eaf/artifacts
+end_time: 1707414478280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4dfcd5affae432d845a0d6805ac1eaf
+run_name: resilient-horse-250
+run_uuid: f4dfcd5affae432d845a0d6805ac1eaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707414466265
+status: 3
+tags: []
+user_id: hbark28

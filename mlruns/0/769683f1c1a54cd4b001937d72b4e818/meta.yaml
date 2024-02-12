@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/769683f1c1a54cd4b001937d72b4e818/artifacts
+end_time: 1707413452559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 769683f1c1a54cd4b001937d72b4e818
+run_name: nervous-slug-597
+run_uuid: 769683f1c1a54cd4b001937d72b4e818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707413437044
+status: 3
+tags: []
+user_id: hbark28

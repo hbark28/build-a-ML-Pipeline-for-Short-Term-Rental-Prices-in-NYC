@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b99a242e30bf41df87c624db4f3b6bcf/artifacts
+end_time: 1707410704614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b99a242e30bf41df87c624db4f3b6bcf
+run_name: tasteful-pug-521
+run_uuid: b99a242e30bf41df87c624db4f3b6bcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707410622646
+status: 3
+tags: []
+user_id: hbark28

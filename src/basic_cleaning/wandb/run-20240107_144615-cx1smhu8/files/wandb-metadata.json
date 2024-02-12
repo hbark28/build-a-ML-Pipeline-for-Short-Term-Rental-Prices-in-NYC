@@ -1,0 +1,80 @@
+{
+    "os": "Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.10",
+    "python": "3.8.18",
+    "heartbeatAt": "2024-01-07T21:46:16.386785",
+    "startedAt": "2024-01-07T21:46:15.618012",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "artifact",
+        "put",
+        "-n",
+        "testing/artifact_test",
+        "wandb_test"
+    ],
+    "state": "running",
+    "program": "/home/hbark28/miniconda3/envs/udacity/bin/wandb",
+    "codePathLocal": "miniconda3/envs/udacity/bin/wandb",
+    "codePath": "miniconda3/envs/udacity/bin/wandb",
+    "host": "Cory",
+    "username": "hbark28",
+    "executable": "/home/hbark28/miniconda3/envs/udacity/bin/python3.8",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3500.0220000000004,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3500.022,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3500.022,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3500.022,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3500.022,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3500.022,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3500.022,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3500.022,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3500.022,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 5.978595733642578
+        }
+    },
+    "memory": {
+        "total": 7.607391357421875
+    }
+}

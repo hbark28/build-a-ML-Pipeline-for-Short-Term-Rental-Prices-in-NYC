@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6b7723ed1d0d4484b41fe3b0283e21ea/artifacts
+end_time: 1707423237080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b7723ed1d0d4484b41fe3b0283e21ea
+run_name: glamorous-cat-30
+run_uuid: 6b7723ed1d0d4484b41fe3b0283e21ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707423182324
+status: 4
+tags: []
+user_id: hbark28

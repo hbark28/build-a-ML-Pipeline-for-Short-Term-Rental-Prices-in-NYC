@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6cbd5d04d027455cbad0c6a44e61bc22/artifacts
+end_time: 1707418421560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cbd5d04d027455cbad0c6a44e61bc22
+run_name: debonair-ox-168
+run_uuid: 6cbd5d04d027455cbad0c6a44e61bc22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707418228280
+status: 4
+tags: []
+user_id: hbark28

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c59c1f7dfc584588a78b3595a0c40cd4/artifacts
+end_time: 1707423863203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c59c1f7dfc584588a78b3595a0c40cd4
+run_name: bright-cub-629
+run_uuid: c59c1f7dfc584588a78b3595a0c40cd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707423859640
+status: 4
+tags: []
+user_id: hbark28

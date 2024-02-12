@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/69fac11484f74def89fd9e945362941f/artifacts
+end_time: 1706144018792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69fac11484f74def89fd9e945362941f
+run_name: agreeable-skink-352
+run_uuid: 69fac11484f74def89fd9e945362941f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706143898864
+status: 3
+tags: []
+user_id: hbark28

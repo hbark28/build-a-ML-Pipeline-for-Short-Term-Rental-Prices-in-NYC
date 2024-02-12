@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/62ad21b9540447b8b7bedbc9cf3a096d/artifacts
+end_time: 1707419063953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62ad21b9540447b8b7bedbc9cf3a096d
+run_name: incongruous-fly-917
+run_uuid: 62ad21b9540447b8b7bedbc9cf3a096d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707419007017
+status: 4
+tags: []
+user_id: hbark28
