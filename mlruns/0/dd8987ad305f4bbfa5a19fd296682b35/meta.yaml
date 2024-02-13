@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dd8987ad305f4bbfa5a19fd296682b35/artifacts
+end_time: 1707850968788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd8987ad305f4bbfa5a19fd296682b35
+run_name: bouncy-hen-823
+run_uuid: dd8987ad305f4bbfa5a19fd296682b35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707850950792
+status: 3
+tags: []
+user_id: hbark28

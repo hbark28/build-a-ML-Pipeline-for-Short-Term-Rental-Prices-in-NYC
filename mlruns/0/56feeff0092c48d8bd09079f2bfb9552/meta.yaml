@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/56feeff0092c48d8bd09079f2bfb9552/artifacts
+end_time: 1707850990590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56feeff0092c48d8bd09079f2bfb9552
+run_name: indecisive-ape-36
+run_uuid: 56feeff0092c48d8bd09079f2bfb9552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707850968806
+status: 3
+tags: []
+user_id: hbark28

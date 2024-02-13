@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/35c023b5761c40bb9c31b8e4329725ec/artifacts
+end_time: 1707851120746
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35c023b5761c40bb9c31b8e4329725ec
+run_name: nosy-owl-378
+run_uuid: 35c023b5761c40bb9c31b8e4329725ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707851028720
+status: 3
+tags: []
+user_id: hbark28
