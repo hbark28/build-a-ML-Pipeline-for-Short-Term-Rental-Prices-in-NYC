@@ -150,7 +150,7 @@ This will iterate over all the environments created by `mlflow` and remove them.
 [GitHub link](https://github.com/hbark28/build-a-ML-Pipeline-for-Short-Term-Rental-Prices-in-NYC.git)
 
 ### W&B link for project 1
-[W&B link[(https://wandb.ai/d501hb/projects)
+[W&B link](https://wandb.ai/d501hb/projects)
 
 ## License
 
