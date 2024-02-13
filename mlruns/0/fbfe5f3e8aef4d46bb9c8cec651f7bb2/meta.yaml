@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fbfe5f3e8aef4d46bb9c8cec651f7bb2/artifacts
+end_time: 1707791474757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbfe5f3e8aef4d46bb9c8cec651f7bb2
+run_name: luxuriant-flea-55
+run_uuid: fbfe5f3e8aef4d46bb9c8cec651f7bb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707791455196
+status: 3
+tags: []
+user_id: hbark28

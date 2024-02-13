@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/886b442872d24de0893f9fcb312a4e40/artifacts
+end_time: 1707845635594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 886b442872d24de0893f9fcb312a4e40
+run_name: resilient-fowl-224
+run_uuid: 886b442872d24de0893f9fcb312a4e40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707845623271
+status: 3
+tags: []
+user_id: hbark28

@@ -1,0 +1,92 @@
+{
+    "os": "Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.18",
+    "heartbeatAt": "2024-02-13T02:32:21.229173",
+    "startedAt": "2024-02-13T02:32:20.556998",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--trainval_artifact",
+        "trainval_data.csv:latest",
+        "--val_size",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "neighbourhood_group",
+        "--rf_config",
+        "/home/hbark28/build-a-ML-Pipeline-for-Short-Term-Rental-Prices-in-NYC/outputs/2024-02-12/19-30-52/rf_config.json",
+        "--max_tfidf_features",
+        "5",
+        "--output_artifact",
+        "random_forest_export"
+    ],
+    "state": "running",
+    "program": "/home/hbark28/build-a-ML-Pipeline-for-Short-Term-Rental-Prices-in-NYC/src/train_random_forest/run.py",
+    "codePath": "src/train_random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/hbark28/build-a-ML-Pipeline-for-Short-Term-Rental-Prices-in-NYC.git",
+        "commit": "b78ea3ef11e13fadf2960027199c23531455b0fc"
+    },
+    "email": "hbark28@wgu.edu",
+    "root": "/home/hbark28/build-a-ML-Pipeline-for-Short-Term-Rental-Prices-in-NYC",
+    "host": "Cory",
+    "username": "hbark28",
+    "executable": "/home/hbark28/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3500.0240000000003,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3500.024,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3500.024,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3500.024,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3500.024,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3500.024,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3500.024,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3500.024,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3500.024,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 14.969642639160156
+    },
+    "memory": {
+        "total": 7.607402801513672
+    }
+}

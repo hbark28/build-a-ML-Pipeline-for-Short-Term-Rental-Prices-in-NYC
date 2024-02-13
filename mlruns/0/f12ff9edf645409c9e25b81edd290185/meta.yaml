@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f12ff9edf645409c9e25b81edd290185/artifacts
+end_time: 1707845660466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f12ff9edf645409c9e25b81edd290185
+run_name: polite-finch-424
+run_uuid: f12ff9edf645409c9e25b81edd290185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707845638411
+status: 3
+tags: []
+user_id: hbark28

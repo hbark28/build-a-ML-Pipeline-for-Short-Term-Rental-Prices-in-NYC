@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cc13760cd8074b97bbcf20f3d46df564/artifacts
+end_time: 1707795681282
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc13760cd8074b97bbcf20f3d46df564
+run_name: charming-ape-119
+run_uuid: cc13760cd8074b97bbcf20f3d46df564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707795668839
+status: 4
+tags: []
+user_id: hbark28

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/30beeb9bb84a47a18a85d274288af06d/artifacts
+end_time: 1707795295280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30beeb9bb84a47a18a85d274288af06d
+run_name: clean-ram-264
+run_uuid: 30beeb9bb84a47a18a85d274288af06d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707795198777
+status: 3
+tags: []
+user_id: hbark28

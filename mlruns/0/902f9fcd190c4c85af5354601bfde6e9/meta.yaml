@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/902f9fcd190c4c85af5354601bfde6e9/artifacts
+end_time: 1707795048855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 902f9fcd190c4c85af5354601bfde6e9
+run_name: glamorous-hog-755
+run_uuid: 902f9fcd190c4c85af5354601bfde6e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707795045346
+status: 4
+tags: []
+user_id: hbark28

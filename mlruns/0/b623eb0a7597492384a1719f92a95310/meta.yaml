@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b623eb0a7597492384a1719f92a95310/artifacts
+end_time: 1707845623255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b623eb0a7597492384a1719f92a95310
+run_name: fortunate-whale-275
+run_uuid: b623eb0a7597492384a1719f92a95310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707845608856
+status: 3
+tags: []
+user_id: hbark28

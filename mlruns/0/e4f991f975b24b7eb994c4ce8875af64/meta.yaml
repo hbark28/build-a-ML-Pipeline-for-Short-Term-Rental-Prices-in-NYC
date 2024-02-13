@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hbark28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e4f991f975b24b7eb994c4ce8875af64/artifacts
+end_time: 1707791632811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4f991f975b24b7eb994c4ce8875af64
+run_name: lyrical-yak-523
+run_uuid: e4f991f975b24b7eb994c4ce8875af64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707791447303
+status: 3
+tags: []
+user_id: hbark28
